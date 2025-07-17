@@ -40,7 +40,7 @@ Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg)
 - Research Fellow, Nanyang Technological University (Oct. 2022 – Oct. 2024)
 - Research Assistant, University of Luxembourg (May 2022 – Sep. 2023)
 
-# Academic and Social Activities
+### Academic and Social Activities
 
 * Served as a reviewer for top conferences and journals, including ISSTA, TOSEM, ASE NIER, JSS, JSA, KNOSYS, and EMSE.
 
