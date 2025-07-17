@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 # About Me
 
 I have published over 20 papers in top-tier conferences and journals, including ICSE, ISSTA, ASE, TOSEM, and EMSE. During my Ph.D. studies, my research focused on enhancing the efficiency and practicality of mutation testing, through a systematic investigation of its fundamental theories and enabling techniques. In my postdoctoral work, I broadened my research scope to encompass interdisciplinary topics at the intersection of software testing and intelligent system security, resulting in a diversified and forward-looking research portfolio.
@@ -16,7 +15,9 @@ I have published over 20 papers in top-tier conferences and journals, including 
 
 **Research Fellow, Singapore Management University**
 
-Email: [w](mailto:weima93@gmail.com)eima@smu.edu.sg | [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
+Email: [w](mailto:weima93@gmail.com)eima@smu.edu.sg
+
+[Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
 ### Research Interests
 
