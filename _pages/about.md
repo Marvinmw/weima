@@ -17,9 +17,7 @@ I have published over 20 papers in top-tier conferences and journals, including 
 
 **Research Fellow, Singapore Management University**
 
-Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg)
-
-[Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
+Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg). Please click my [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en) to check my full publications.
 
 ### Research Interests
 
