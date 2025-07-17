@@ -7,15 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
+# About [**Wei Ma**, Ph.D.](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
-I have published over 20 papers in top-tier conferences and journals, including ICSE, ISSTA, ASE, TOSEM, and EMSE. During my Ph.D. studies, my research focused on enhancing the efficiency and practicality of mutation testing, through a systematic investigation of its fundamental theories and enabling techniques, working closely with [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). In my postdoctoral work, I broadened my research scope to encompass interdisciplinary topics at the intersection of software testing and intelligent system security, resulting in a diversified and forward-looking research portfolio. At SMU, I work with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and during my time at NTU, I collaborated with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ).
+Currently, I am a research scientist at Singapore Management University (SMU). I have published over 20 papers in top-tier conferences and journals, including ICSE, ISSTA, ASE, TOSEM, and EMSE. During my Ph.D. studies, my research focused on enhancing the efficiency and practicality of mutation testing, through a systematic investigation of its fundamental theories and enabling techniques, working closely with [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). In my postdoctoral work, I broadened my research scope to encompass interdisciplinary topics at the intersection of software testing and intelligent system security, resulting in a diversified and forward-looking research portfolio. At SMU, I work with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and during my time at NTU, I collaborated with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ).
 
 ## **If you are interested in my research, please [email me](mailto:weima@smu.edu.sg) directly.**
-
-## [**Wei Ma**, Ph.D.](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
-
-**Research Fellow, Singapore Management University**
 
 Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg). Please click my [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en) to check my full publications.
 
