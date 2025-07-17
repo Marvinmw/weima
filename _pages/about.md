@@ -23,10 +23,10 @@ Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg)
 
 ### Research Interests
 
-- Software testing (especially the design and application of mutation testing and fuzz testing methods)
-- AI model testing (focusing on robustness evaluation and interpretability analysis)
-- Syntax-semantic modeling and controllability analysis of Code Foundation Models
-- Vulnerability detection and governance mechanisms in Web3 systems
+- Software Testing (especially the design and application of mutation testing and fuzz testing methods)
+- Trustworthy AI (focusing on robustness evaluation and interpretability analysis)
+- Syntax-Semantic Modeling and Controllability Analysis of Code Foundation Models
+- Software Security and Governance Mechanisms in Web3 systems
 
 ### Education
 
