@@ -73,7 +73,7 @@ Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg)
 3. Sun, Dianxiang; **Wei Ma**; Liming Nie; and Yang Liu. Sok: Comprehensive analysis of rug pull causes, datasets, and detection tools in defi. (ISSTA 2025)
 4. Shangqing Liu; **Wei Ma#**; Jian Wang; Xiaofei Xie; Ruitao Feng; and Yang Liu. 2024. Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation. In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 166–177. [https://doi.org/10.1145/3652032.3657564](https://doi.org/10.1145/3652032.3657564)
 
-#### The foundation of Large Langauge Model for Code
+#### The Foundation and Application of Large Langauge Model for Code
 
 1. **Wei Ma**; Shangqing Liu; Mengjie Zhao; Xiaofei Xie; Wenhang Wang; Qiang Hu; Jie Zhang; Yang Liu; Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities, ACM TOSEM, 2024, 33(7): 1-29.
 2. **Wei Ma***; Mengjie Zhao*; Ezekiel Soremekun; Qiang Hu; Jie M. Zhang; Mike Papadakis; Maxime Cordy; Xiaofei Xie; and Yves Le Traon. 2022. GraphCode2Vec: generic code embedding via lexical and program dependence analyses. In Proceedings of the 19th International Conference on Mining Software Repositories Association for Computing Machinery, New York, NY, USA, 524–536. (MSR '22)
