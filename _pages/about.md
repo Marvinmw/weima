@@ -13,8 +13,6 @@ Currently, I am a research scientist at Singapore Management University (SMU). I
 
 ## **If you are interested in my research, please [email me](mailto:weima@smu.edu.sg) directly.**
 
-Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg). Please click my [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en) to check my full publications.
-
 ### Research Interests
 
 - Software Testing (especially the design and application of mutation testing and fuzz testing methods)
@@ -40,6 +38,7 @@ Email: [weima@smu.edu.sg](mailto:weima@smu.edu.sg). Please click my [Google Scho
 
 # Publication
 
+Please click my [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en) to check my full publications.
 \* co-first author, # corresponding author
 
 ## **Dynamic Testing**
