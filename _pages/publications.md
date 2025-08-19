@@ -13,6 +13,7 @@ author_profile: true
 3. Miloš Ojdanić*; **Wei Ma***; Thomas Laurent; Thierry Titcheu Chekam; Anthony Ventresque; and Mike Papadakis. 2022. On the use of commit-relevant mutants. Empirical Softw. Engg. 27, 5 (Sep 2022). https://doi.org/10.1007/s10664-022-10138-1 (EMSE '22)
 4. Xu, Hanxiang*; **Wei Ma***; Ting Zhou; Yanjie Zhao; Kai Chen; Qiang Hu; Yang Liu; and Haoyu Wang. A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation. (**ICSE-Industry-Track, Best Paper Award**, 2025)
 5. Cen Zhang; Yaowen Zheng; Mingqiang Bai; Yeting Li; **Wei Ma**; Xiaofei Xie; Yuekang Li; Limin Sun; and Yang Liu. 2024. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation. In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis Association for Computing Machinery, New York, NY, USA, 1223–1235 (ISSTA '24)
+6. Qiang Wang, Zhiyuan Hu, **Wei Ma#**, Qiang Chen, Yueling Zhang#, and Geguang Pu. 2025. Runtime Verification of Tactical Data Link (ISSRE 2025 Industry Track)
 
 #### **AI Testing and Security**
 
