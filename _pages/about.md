@@ -17,6 +17,11 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 
 ## **I am currently on the academic job market seeking faculty positions. If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
+### News
+- Our paper, **Detecting DeFi Fraud with a Graph-Transformer Language Model** has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). 
+- Our paper, **Runtime Verification of Tactical Data Link** has been accepted by ISSRE 2025 Industry Track with (2 accept and 1 strong accept).
+- Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026.
+
 ### Research Interests
 
 #### **🔒 Cybersecurity Focus**
@@ -80,6 +85,8 @@ Please click my [Google Scholar](https://scholar.google.com/citations?user=ZubTN
 2. **Wei Ma**; Daoyuan Wu; Yuqiang Sun; Tianwen Wang; Shangqing Liu; Jian Zhang; Yue Xue; Yang Liu; Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications, IEEE/ACM 47th International Conference on Software Engineering (ICSE 2025), Ottawa, Canada.
 3. Sun, Dianxiang; **Wei Ma**; Liming Nie; and Yang Liu. Sok: Comprehensive analysis of rug pull causes, datasets, and detection tools in defi. (ISSTA 2025)
 4. Shangqing Liu; **Wei Ma#**; Jian Wang; Xiaofei Xie; Ruitao Feng; and Yang Liu. 2024. Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation. In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 166–177. [https://doi.org/10.1145/3652032.3657564](https://doi.org/10.1145/3652032.3657564)
+5. **Wei Ma**, Junjie Shi, Jiaxi Qiu, Cong Wu, Jing Chen, Lingxiao Jiang, Shangqing Liu, Yang Liu, Xiang Yang. Detecting DeFi Fraud with a Graph-TransformerLanguage Model. In IEEE Transactions on Information Forensics & Security.
+6. Qiang Wang, Zhiyuan Hu, **Wei Ma#**, Qiang Chen, Yueling Zhang, and Geguang Pu. Runtime Verification of Tactical Data Link. ISSRE 2025 Industry Track.
 
 ## **🤖 Code Intelligence & Foundation Models**
 
