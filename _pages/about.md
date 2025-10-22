@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About [**Wei Ma**, Ph.D.](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
-Currently, I am a research scientist at Singapore Management University (SMU) with a **strong focus on cybersecurity and software engineering**. I have published over 20 papers in top-tier conferences and journals, including ICSE, ISSTA, ASE, TOSEM, and EMSE. My research spans across **program analysis and AI-driven software security**, **smart-contract auditing and DeFi governance**, **large-scale fuzzing and vulnerability detection**, and **mutation testing for trustworthy AI**.
+Currently, I am a research scientist at Singapore Management University (SMU) with a **strong focus on cybersecurity and software engineering**. I have published over 25 papers in top-tier conferences and journals, including TIFS, ICSE, ISSTA, ASE, TOSEM, and EMSE. My research spans across **program analysis and AI-driven software security**, **smart-contract auditing and DeFi governance**, **large-scale fuzzing and vulnerability detection**, and **mutation testing for trustworthy AI**.
 
 During my Ph.D. studies at University of Luxembourg, I developed foundational expertise in software testing methodologies, working closely with [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). In my postdoctoral work, I expanded into **cybersecurity research**, focusing on the intersection of software engineering and intelligent system security, resulting in industry-leading contributions to **code model security**, **Web3 security governance**, and **robust AI for code**.
 
