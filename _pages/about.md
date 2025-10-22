@@ -18,9 +18,10 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 ## **I am currently on the academic job market seeking faculty positions. If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
+- Our paper, **Beyond Final Code: A Process-Oriented Error analysis of Software Development Agents in Real-World GitHub Scenarios** has been accepted by ICSE 2026 (cycle 2).
 - Our paper, **Detecting DeFi Fraud with a Graph-Transformer Language Model** has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). 
 - Our paper, **Runtime Verification of Tactical Data Link** has been accepted by ISSRE 2025 Industry Track with (2 accept and 1 strong accept).
-- Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026.
+- Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026 (cycle 1).
 
 ### Research Interests
 
