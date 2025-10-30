@@ -20,7 +20,6 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 ### News
 - Our paper, **Beyond Final Code: A Process-Oriented Error analysis of Software Development Agents in Real-World GitHub Scenarios** has been accepted by ICSE 2026 (cycle 2).
 - Our paper, **Detecting DeFi Fraud with a Graph-Transformer Language Model** has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). 
-- Our paper, **Runtime Verification of Tactical Data Link** has been accepted by ISSRE 2025 Industry Track with (2 accept and 1 strong accept).
 - Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026 (cycle 1).
 
 ### Research Interests
