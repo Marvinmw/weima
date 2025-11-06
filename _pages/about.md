@@ -18,6 +18,7 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 ## **I am currently on the academic job market seeking faculty positions. If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
+- I have joined in TOSEM review committee, thanks for the invitation from Prof. Abhik Roychoudhury!
 - I am invited to join the Youth Editorial Board of the journal Blockchain.
 - Our paper, **Beyond Final Code: A Process-Oriented Error analysis of Software Development Agents in Real-World GitHub Scenarios** has been accepted by ICSE 2026 (cycle 2).
 - Our paper, **Detecting DeFi Fraud with a Graph-Transformer Language Model** has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). 
