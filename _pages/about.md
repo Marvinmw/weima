@@ -18,7 +18,7 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 ## ** If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
-- Our work, AgentGuard received The Seventh International Conference on Machine Learning for Cyber Security (ML4CS 2025), Best Paper Award.
+- Our work, AgentGuard received The 7th International Conference on Machine Learning for Cyber Security (ML4CS 2025), Best Paper Award.
 - One paper is accpeted by SANER 2026.
 - One best paper nomination.
 - I have joined in TOSEM review committee, thanks for the invitation from Prof. Abhik Roychoudhury!
