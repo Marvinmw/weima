@@ -15,9 +15,12 @@ During my Ph.D. studies at University of Luxembourg, I developed foundational ex
 
 At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and during my time at Nanyang Technological University (NTU), I worked with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ). I serve as a reviewer for premier conferences and journals, including ISSTA, TOSEM, ASE NIER, JSS, JSA, KNOSYS, and EMSE.
 
-## **I am currently on the academic job market seeking faculty positions. If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
+## ** If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
+- Our work, AgentGuard received The Seventh International Conference on Machine Learning for Cyber Security (ML4CS 2025), Best Paper Award.
+- One paper is accpeted by SANER 2026.
+- One best paper nomination.
 - I have joined in TOSEM review committee, thanks for the invitation from Prof. Abhik Roychoudhury!
 - I am invited to join the Youth Editorial Board of the journal Blockchain.
 - Our paper, **Beyond Final Code: A Process-Oriented Error analysis of Software Development Agents in Real-World GitHub Scenarios** has been accepted by ICSE 2026 (cycle 2).
