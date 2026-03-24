@@ -18,7 +18,9 @@ At SMU, I collaborate with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/
 ## ** If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
-- I am invited as ICSE 2027 PC memeber.
+- Our paper, LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion, was accepted by TSC.
+- One paper, Towards secure program partitioning for smart contracts with LLMs in-context learning, accepted by TSE.
+- I am invited as an ICSE 2027 PC member.
 - My work, **Test Selection for Deep Learming Systems** won the ACM TOSEM 2026 Outstanding Paper Award in 5 years.
 - Our work, AgentGuard received The 7th International Conference on Machine Learning for Cyber Security (ML4CS 2025), Best Paper Award.
 - One paper is accpeted by SANER 2026.
