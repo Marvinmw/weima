@@ -15,7 +15,7 @@ During my Ph.D. studies at University of Luxembourg, I developed foundational ex
 
 Before joining BTH, I was a research scientist at Singapore Management University (SMU), where I collaborated with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766). During my time at Nanyang Technological University (NTU), I also worked with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ). I serve as a reviewer for premier conferences and journals, including ISSTA, TOSEM, ASE NIER, JSS, JSA, KNOSYS, and EMSE.
 
-## ** If you are interested in my research or potential collaboration, please feel free to contact me at [weima@smu.edu.sg](mailto:weima@smu.edu.sg) or [weima93@gmail.com](mailto:weima93@gmail.com).**
+## ** If you are interested in my research or potential collaboration, please feel free to contact me at [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
 - Our paper, LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion, was accepted by TSC.
