@@ -4,40 +4,54 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-\* co-first author, # corresponding author
 
-#### **Dynamic Testing**
+Full list on [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en).
+\* co-first author
 
-1. **Wei Ma**; Thierry Titcheu Chekam; Mike Papadakis; Mark Harman; MuDelta: Delta-Oriented Mutation Testing at Commit Time, the 43rd International Conference on Software Engineering (ICSE 2021), Madrid, Spain.
-2. **Wei Ma**; T. Laurent; M. Ojdanić; T. T. Chekam; A. Ventresque and M. Papadakis. Commit-Aware Mutation Testing, 2020 IEEE International Conference on Software Maintenance and Evolution Adelaide, SA, Australia, 2020, pp. 394-405, (ICSME '20, **IEEE Computer Society TCSE Distinguished Paper Award**)
-3. Miloš Ojdanić*; **Wei Ma***; Thomas Laurent; Thierry Titcheu Chekam; Anthony Ventresque; and Mike Papadakis. 2022. On the use of commit-relevant mutants. Empirical Softw. Engg. 27, 5 (Sep 2022). https://doi.org/10.1007/s10664-022-10138-1 (EMSE '22)
-4. Xu, Hanxiang*; **Wei Ma***; Ting Zhou; Yanjie Zhao; Kai Chen; Qiang Hu; Yang Liu; and Haoyu Wang. A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation. (**ICSE-Industry-Track, Best Paper Award**, 2025)
-5. Cen Zhang; Yaowen Zheng; Mingqiang Bai; Yeting Li; **Wei Ma**; Xiaofei Xie; Yuekang Li; Limin Sun; and Yang Liu. 2024. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation. In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis Association for Computing Machinery, New York, NY, USA, 1223–1235 (ISSTA '24)
-6. Qiang Wang, Zhiyuan Hu, **Wei Ma#**, Qiang Chen, Yueling Zhang#, and Geguang Pu. 2025. Runtime Verification of Tactical Data Link (ISSRE 2025 Industry Track)
+## Software Testing, Fuzzing & Analysis
 
-#### **AI Testing and Security**
+1. Xu, Hanxiang\*; **Wei Ma**\*; Ting Zhou; Yanjie Zhao; Kai Chen; Qiang Hu; Yang Liu; Haoyu Wang. CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced by Code Knowledge Graph. ICSE 2025, Industry Track (**Best Paper Award**).
+2. Maoyi Xie; Kaixuan Li; Jingquan Ge; **Wei Ma**; Yuqiang Sun; Ziqiao Kong; Cen Zhang; Dongge Liu; Oliver Chang; Yang Liu. Arash: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation. TOSEM, 2026.
+3. Jingquan Ge; Yaowen Zheng; Yuekang Li; **Wei Ma**; Sheikh Mahbub Habib; Praveen Kakkolangara; Gabriel Wayne Byman; Yang Liu. OptRCA: A More Efficient and Accurate Approach for Automated Root Cause Analysis and Explanation. TOSEM 35(2): 1–32, 2026.
+4. **Wei Ma**; Thierry Titcheu Chekam; Mike Papadakis; Mark Harman. MuDelta: Delta-Oriented Mutation Testing at Commit Time. ICSE 2021.
+5. **Wei Ma**; Thomas Laurent; Miloš Ojdanić; Thierry Titcheu Chekam; Anthony Ventresque; Mike Papadakis. Commit-Aware Mutation Testing. ICSME 2020, pp. 394–405 (**IEEE Computer Society TCSE Distinguished Paper Award**).
+6. Miloš Ojdanić\*; **Wei Ma**\*; Thomas Laurent; Thierry Titcheu Chekam; Anthony Ventresque; Mike Papadakis. On the Use of Commit-Relevant Mutants. EMSE 27, 5 (2022).
+7. Cen Zhang; Yaowen Zheng; Mingqiang Bai; Yeting Li; **Wei Ma**; Xiaofei Xie; Yuekang Li; Limin Sun; Yang Liu. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation. ISSTA 2024, pp. 1223–1235.
+8. Qiang Wang; Zhiyuan Hu; **Wei Ma**; Qiang Chen; Yueling Zhang; Geguang Pu. Runtime Verification of Tactical Data Link. ISSRE 2025, Industry Track.
 
-1. **Wei Ma**; Mike Papadakis; Anestis Tsakmalis; Maxime Cordy; Yves Le Traon; Test Selection for Deep Learning Systems, ACM Transactions on Software Engineering and Methodology, 2021, 30(2): 1-22.
-2. Zhihao Lin*; **Wei Ma***; Mingyi Zhou; Yanjie Zhao; Haoyu Wang; Yang Liu; Jun Wang; Li Li; MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses, 48th ICSE, Brazil, 2026.
-3. Qiang Hu; Yuejun Guo; Xiaofei Xie; Maxime Cordy; **Wei Ma#**; Mike Papadakis; Lei Ma; and Yves Le Traon. 2025. Assessing the Robustness of Test Selection Methods for Deep Neural Networks. ACM Trans. Softw. Eng. Methodol. Just Accepted (January 2025, TOSEM '25). https://doi.org/10.1145/3715693
-4. Jie Zhang; **Wei Ma**#; Qiang Hu; Shangqing Liu; Xiaofei Xie; Yves Le Traon; and Yang Liu. 2023. A Black-Box Attack on Code Models via Representation Nearest Neighbor Search. In Findings of the Association for Computational Linguistics: Empirical Methods in Natural Language Processing, 2023, pages 9706–9716, Singapore. Association for Computational Linguistics. (EMNLP-Findings '23)
-5. Dang, X.; Li, Y.; **Wei Ma**. et al. Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study. Empirical Software Engineering 29, 112 (2024). (EMSE '24)
-6. Hu, Qiang; Yuejun Guo; Maxime Cordy; Xiaofei Xie; **Wei Ma**; Mike Papadakis; and Yves Le Traon. "Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment." In 2023 IEEE/ACM 2nd International Conference on AI Engineering–Software Engineering for AI (CAIN), pp. 56-67. IEEE, 2023.
-7. Qiang Hu; Yuejun Guo; Maxime Cordy; Xiaofei Xie; **Wei Ma**; Mike Papadakis; and Yves Le Traon. 2022. Towards exploring the limitations of active learning: an empirical study. In Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering IEEE Press, 917–929.(ASE '22)
+## AI Security & Trustworthy Systems
 
-#### **Software and Web3 Security**
+1. Zhihao Lin\*; **Wei Ma**\*; Mingyi Zhou; Yanjie Zhao; Haoyu Wang; Yang Liu; Jun Wang; Li Li. MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses. ICSE 2026.
+2. **Wei Ma**; Yu Li; Zhi Chen; Ye Liu; Lingxiao Jiang; Qiang Hu; Junyi Tao. AgentGuard: An Active Threat Discovery System for Package Confusion Using Multi-Agent Collaboration. ML4CS 2025, LNCS 16456, pp. 69–83 (**Best Paper Award**).
+3. Yu Li; **Wei Ma**; Zhi Chen; Ye Liu; Lingxiao Jiang; Junyi Tao; Hao Liu; Yongqiang Lyu; Qiang Hu. ConfuScope: A Multi-Agent Framework via Hybrid Search and Content-Aware Analysis for Robust Package Confusion Detection. TSE, 2026.
+4. **Wei Ma**; Mike Papadakis; Anestis Tsakmalis; Maxime Cordy; Yves Le Traon. Test Selection for Deep Learning Systems. TOSEM 30(2): 1–22, 2021 (**ACM TOSEM 2026 Outstanding Paper Award in 5 Years**).
+5. Qiang Hu; Yuejun Guo; Xiaofei Xie; Maxime Cordy; **Wei Ma**; Mike Papadakis; Lei Ma; Yves Le Traon. Assessing the Robustness of Test Selection Methods for Deep Neural Networks. TOSEM, 2025.
+6. Jie Zhang; **Wei Ma**; Qiang Hu; Shangqing Liu; Xiaofei Xie; Yves Le Traon; Yang Liu. A Black-Box Attack on Code Models via Representation Nearest Neighbor Search. EMNLP Findings 2023, pp. 9706–9716.
+7. Xueqi Dang; Yinghua Li; **Wei Ma**; et al. Towards Exploring the Limitations of Test Selection Techniques on Graph Neural Networks: An Empirical Study. EMSE 29, 112 (2024).
+8. Qiang Hu; Yuejun Guo; Maxime Cordy; Xiaofei Xie; **Wei Ma**; Mike Papadakis; Yves Le Traon. Towards Understanding Model Quantization for Reliable Deep Neural Network Deployment. CAIN 2023, pp. 56–67.
+9. Qiang Hu; Yuejun Guo; Maxime Cordy; Xiaofei Xie; **Wei Ma**; Mike Papadakis; Yves Le Traon. Towards Exploring the Limitations of Active Learning: An Empirical Study. ASE 2022, pp. 917–929.
 
-1. **Wei Ma**; Chenguang Zhu; Ye Liu; Xiaofei Xie; Yi Li; A Comprehensive Study of Governance Issues in Decentralized Finance Applications, ACM Transactions on Software Engineering and Methodology, 2025.
-2. **Wei Ma**; Daoyuan Wu; Yuqiang Sun; Tianwen Wang; Shangqing Liu; Jian Zhang; Yue Xue; Yang Liu; Combining Fine-tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications, IEEE/ACM 47th International Conference on Software Engineering (ICSE 2025), Ottawa, Canada.
-3. Sun, Dianxiang; **Wei Ma**; Liming Nie; and Yang Liu. Sok: Comprehensive analysis of rug pull causes, datasets, and detection tools in defi. (ISSTA 2025)
-4. Shangqing Liu; **Wei Ma#**; Jian Wang; Xiaofei Xie; Ruitao Feng; and Yang Liu. 2024. Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation. In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 166–177. [https://doi.org/10.1145/3652032.3657564](https://doi.org/10.1145/3652032.3657564)
+## Software & Web3 Security
 
-#### The foundation of Large Langauge Model for Code
+1. **Wei Ma**; Junjie Shi; Jiaxi Qiu; Cong Wu; Jing Chen; Lingxiao Jiang; Shangqing Liu; Yang Liu; Yang Xiang. Detecting DeFi Fraud With a Graph-Transformer Language Model. IEEE Transactions on Information Forensics and Security 20: 10051–10065, 2025.
+2. **Wei Ma**; Chenguang Zhu; Ye Liu; Xiaofei Xie; Yi Li. A Comprehensive Study of Governance Issues in Decentralized Finance Applications. TOSEM, 2025.
+3. **Wei Ma**; Daoyuan Wu; Yuqiang Sun; Tianwen Wang; Shangqing Liu; Jian Zhang; Yue Xue; Yang Liu. Combining Fine-tuning and LLM-Based Agents for Intuitive Smart Contract Auditing with Justifications. ICSE 2025.
+4. Ye Liu; Yuqing Niu; Chengyan Ma; Ruidong Han; **Wei Ma**; Yi Li; Debin Gao; David Lo. Towards Secure Program Partitioning for Smart Contracts With LLM's In-Context Learning. TSE, 2026.
+5. Dianxiang Sun; **Wei Ma**; Liming Nie; Yang Liu. SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment. Proc. ACM Softw. Eng. 2 (ISSTA): 550–572, 2025.
+6. Jian Zhang; Chong Wang; Anran Li; Weisong Sun; Cen Zhang; **Wei Ma**; Yang Liu. Evaluating Large Language Models for Line-Level Vulnerability Localization. TSE 52(3): 770–785, 2026.
+7. Shangqing Liu; **Wei Ma**; Jian Wang; Xiaofei Xie; Ruitao Feng; Yang Liu. Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation. LCTES 2024, pp. 166–177.
 
-1. **Wei Ma**; Shangqing Liu; Mengjie Zhao; Xiaofei Xie; Wenhang Wang; Qiang Hu; Jie Zhang; Yang Liu; Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities, ACM TOSEM, 2024, 33(7): 1-29.
-2. **Wei Ma***; Mengjie Zhao*; Ezekiel Soremekun; Qiang Hu; Jie M. Zhang; Mike Papadakis; Maxime Cordy; Xiaofei Xie; and Yves Le Traon. 2022. GraphCode2Vec: generic code embedding via lexical and program dependence analyses. In Proceedings of the 19th International Conference on Mining Software Repositories Association for Computing Machinery, New York, NY, USA, 524–536. (MSR '22)
-3. Zhihao Lin*; **Wei Ma***; Tao Lin; Yaowen Zheng; Jingquan Ge; Jun Wang; Jacques Klein; Tegawende Bissyande; Yang Liu; and Li Li. 2024. Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning. ACM Trans. Softw. Eng. Methodol. Just Accepted (December 2024). https://doi.org/10.1145/3708529 (TOSEM '25)
-4. Junjie Shi; **Wei Ma#**; Chen Chi; Lingxiao Jiang. Debugging For LLM-Based Software (FSE 2030 Workshop, FSE' 2025)
-5. Z. Lin; M. Zhou; **Wei Ma**; C. Chen; Y. Yang; J. Wang; C. Hu; L. Li. HomeRepair: Learn to Repair OpenHarmony Apps, (FSE 2025 Industry Track, Accept)
-6. Shangqing Liu; Yanzhou Li; Xiaofei Xie; **Wei Ma**#; Guozhu Meng; and Yang Liu. 2024. Automated Commit Intelligence by Pre-training. ACM Trans. Softw. Eng. Methodol. 33, 8, Article 201 (November 2024), 30 pages. https://doi.org/10.1145/3674731 (TOSEM '25)
-7. Wenhan Wang; Yanzhou Li; Anran Li; Jian Zhang; **Wei Ma**; and Yang Liu. 2024. An Empirical Study on Noisy Label Learning for Program Understanding. In Proceedings of the IEEE/ACM 46th International Conference on Software Engineering. Association for Computing Machinery, New York, NY, USA, Article 95, 1–12.(ICSE '24)
+## Foundations of Code LLMs & Software Agents
+
+1. Zhi Chen; **Wei Ma**; Lingxiao Jiang. Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios. ICSE 2026.
+2. **Wei Ma**; Zhi Chen; Jingxu Gu; Tianling Li; Shangqing Liu; Lingxiao Jiang. Same Signal, Different Semantics: A Cross-Framework Behavioral Analysis of Software Engineering Agents. arXiv:2605.18332, 2026.
+3. **Wei Ma**; Shangqing Liu; Mengjie Zhao; Xiaofei Xie; Wenhan Wang; Qiang Hu; Jie Zhang; Yang Liu. Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities. TOSEM 33(7): 1–29, 2024.
+4. **Wei Ma**\*; Mengjie Zhao\*; Ezekiel Soremekun; Qiang Hu; Jie M. Zhang; Mike Papadakis; Maxime Cordy; Xiaofei Xie; Yves Le Traon. GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses. MSR 2022, pp. 524–536.
+5. Zhihao Lin\*; **Wei Ma**\*; Tao Lin; Yaowen Zheng; Jingquan Ge; Jun Wang; Jacques Klein; Tegawendé Bissyandé; Yang Liu; Li Li. Open-Source AI-Based SE Tools: Opportunities and Challenges of Collaborative Software Learning. TOSEM, 2025.
+6. Shangqing Liu; Daya Guo; Jian Zhang; **Wei Ma**; Yanzhou Li; Yang Liu. An Empirical Study of Exploring the Capabilities of Large Language Models in Code Learning. TSE, 2025.
+7. Shangqing Liu; Yanzhou Li; Xiaofei Xie; **Wei Ma**; Guozhu Meng; Yang Liu. Automated Commit Intelligence by Pre-training. TOSEM 33(8), Article 201, 2024.
+8. Zhihao Lin; Mingyi Zhou; **Wei Ma**; Chi Chen; Yun Yang; Jun Wang; Chunming Hu; Li Li. HapRepair: Learn to Repair OpenHarmony Apps. FSE Companion 2025, Industry Track, pp. 319–330.
+9. Junjie Shi; **Wei Ma**; Chi Chen; Lingxiao Jiang. Debugging for LLM-Based Software. FSE 2025, FSE 2030 Workshop.
+10. Tianlin Li; Qiang Hu; Chong Wang; Jian Zhang; **Wei Ma**; Aishan Liu; Jingyi Wang; Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models. ICECCS 2025, pp. 489–494.
+11. Yao Zhang; Yude Bai; Minhong Dong; Keqing Cen; Ji Zhang; Qiang Hu; **Wei Ma**; Yongqiang Lyu; Ruitao Feng; Xiaohong Li; Junjie Wang; Lingxiao Jiang; Yang Liu. LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion. IEEE Transactions on Services Computing, 2026.
+12. Wenhan Wang; Yanzhou Li; Anran Li; Jian Zhang; **Wei Ma**; Yang Liu. An Empirical Study on Noisy Label Learning for Program Understanding. ICSE 2024, Article 95, pp. 1–12.
