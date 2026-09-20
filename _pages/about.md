@@ -15,9 +15,9 @@ I am an **Associate Senior Lecturer (Tenure Track) in Software Engineering at Bl
 
 My first-author paper *Test Selection for Deep Learning Systems* received the **ACM TOSEM Outstanding Paper Award in 5 Years (2026)** — one paper selected from all those published in the journal across five years. Other awards include Best Paper at ICSE 2025 Industry Track, Best Paper at ML4CS 2025, and an IEEE Computer Society TCSE Distinguished Paper Award at ICSME 2020. My work has been cited **1,700+ times** (h-index 19) and appears in ICSE, FSE, ISSTA, ASE, TOSEM, TSE, TIFS, EMSE, and IJCAI — including two papers at ICSE 2026.
 
-I build practical systems. CKGFuzzer turns code knowledge graphs into production-ready fuzz drivers and won an industry best-paper award. MazeBreaker breaks LLM safety defenses with multi-agent reinforcement learning. AgentGuard hunts package-confusion supply-chain attacks in the wild. My LLM-based smart-contract auditor has found real vulnerabilities in deployed DeFi protocols. This work spans program analysis, AI-driven software security, smart-contract auditing and DeFi governance, large-scale fuzzing and vulnerability detection, and mutation testing for trustworthy AI.
+I build practical systems. MazeBreaker breaks LLM safety defenses with multi-agent reinforcement learning. AgentGuard hunts package-confusion supply-chain attacks in the wild. CKGFuzzer turns code knowledge graphs into production-ready fuzz drivers and won an industry best-paper award. My LLM-based smart-contract auditor has found real vulnerabilities in deployed DeFi protocols. This work spans program analysis, AI-driven software security, smart-contract auditing and DeFi governance, large-scale fuzzing and vulnerability detection, and mutation testing for trustworthy AI.
 
-I earned my Ph.D. at the University of Luxembourg under [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). I then spent four years in Singapore's software-security research groups — as a Research Scientist at SMU with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and as a Research Fellow at NTU with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ). I serve as an Associate Editor of *Automated Software Engineering*, on the ACM TOSEM Review Committee, and on the program committee of ICSE 2027.
+I earned my Ph.D. at the University of Luxembourg under [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). I then spent four years in Singapore's software-security research groups — as a Research Scientist at SMU with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and as a Research Fellow at NTU with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ). I serve as an Associate Editor of *Automated Software Engineering* and on the ACM TOSEM Review Committee.
 
 > I am always open to strong collaborators and motivated students. Reach me at [weima93@gmail.com](mailto:weima93@gmail.com).
 
@@ -25,16 +25,17 @@ I earned my Ph.D. at the University of Luxembourg under [Prof. Yves Le Traon](ht
 - Our paper, **ProCURE: Addressing the Programming Concept Understanding Gap for Code Generation in LLMs via Concept-Aware Consistency Learning**, has been accepted by IJCAI 2026.
 - Our paper, LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion, was accepted by TSC.
 - One paper, Towards secure program partitioning for smart contracts with LLMs in-context learning, accepted by TSE.
+- I am invited as an APSEC 2026 PC member.
+- I am invited as an MSR 2027 PC member.
 - I am invited as an ICSE 2027 PC member.
 - My work, **Test Selection for Deep Learning Systems**, won the ACM TOSEM 2026 Outstanding Paper Award in 5 years.
 - Our work, AgentGuard, received the Best Paper Award at the 7th International Conference on Machine Learning for Cyber Security (ML4CS 2025).
 - One paper is accepted by SANER 2026.
 - Our paper, **Runtime Verification of Tactical Data Link**, received a Best Paper nomination at the ISSRE 2025 Industry Track.
-- I have joined in TOSEM review committee, thanks for the invitation from Prof. Abhik Roychoudhury!
-- I am invited to join the Youth Editorial Board of the journal Blockchain.
-- Our paper, **Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios**, has been accepted by ICSE 2026 (cycle 2).
+- I have joined the ACM TOSEM review committee.
+- Our paper, **Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios**, has been accepted by ICSE 2026.
 - Our paper, **Detecting DeFi Fraud with a Graph-Transformer Language Model** has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). 
-- Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026 (cycle 1).
+- Our paper, **MazeBreaker: Multi-Agent Reinforcement Learning for Dynamic Jailbreaking of LLM Security Defenses** has been accepted by ICSE 2026.
 
 ### Research Interests
 
