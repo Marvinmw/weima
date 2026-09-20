@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p align="right"><a href="/zh/">中文</a></p>
 
-# [**Wei Ma**, Ph.D.](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
+# [Wei Ma, Ph.D.](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
 I am an **Associate Senior Lecturer (Tenure Track) in Software Engineering at Blekinge Institute of Technology (BTH), Sweden**, and an ELLIIT faculty member. ELLIIT is Sweden's national strategic research environment in IT and mobile communications. My research lies at the intersection of AI for Software Engineering and cybersecurity, focused on the trustworthiness of software when large language models participate in its development and operation.
 
@@ -19,7 +19,7 @@ I build practical systems. CKGFuzzer turns code knowledge graphs into production
 
 I earned my Ph.D. at the University of Luxembourg under [Prof. Yves Le Traon](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) and [Prof. Mike Papadakis](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766). I then spent four years in Singapore's software-security research groups — as a Research Scientist at SMU with [Prof. Lingxiao Jiang](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766), and as a Research Fellow at NTU with [Prof. Yang Liu](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) and [Prof. Yi Li](https://scholar.google.ca/citations?user=B61QIUIAAAAJ). I serve as an Associate Editor of *Automated Software Engineering*, on the ACM TOSEM Review Committee, and on the program committee of ICSE 2027.
 
-> **I am always open to strong collaborators and motivated students. Reach me at [weima93@gmail.com](mailto:weima93@gmail.com).**
+> I am always open to strong collaborators and motivated students. Reach me at [weima93@gmail.com](mailto:weima93@gmail.com).
 
 ### News
 - Our paper, **ProCURE: Addressing the Programming Concept Understanding Gap for Code Generation in LLMs via Concept-Aware Consistency Learning**, has been accepted by IJCAI 2026.

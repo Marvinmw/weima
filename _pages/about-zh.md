@@ -8,7 +8,7 @@ lang: zh
 
 <p align="right"><a href="/">English</a></p>
 
-# [**马威** (Wei Ma)，博士](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
+# [马威 (Wei Ma)，博士](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
 我是瑞典布莱金厄理工学院（BTH）软件工程系的终身教轨助理教授（Associate Senior Lecturer, Tenure Track），也是 **ELLIIT** 研究员。ELLIIT 是瑞典在信息技术与移动通信领域的国家级战略研究平台。我的研究方向涉及 AI for Software Engineering 和网络安全，关注大模型参与软件开发和运行后的可信问题。
 
@@ -18,7 +18,7 @@ lang: zh
 
 我在卢森堡大学获得博士学位，师从 [Yves Le Traon 教授](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) 和 [Mike Papadakis 教授](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766)，在软件测试方向打下基础。随后我在新加坡管理大学（SMU）任研究科学家，与 [Lingxiao Jiang 教授](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766) 合作；在南洋理工大学（NTU）任研究员，与 [Yang Liu 教授](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) 和 [Yi Li 教授](https://scholar.google.ca/citations?user=B61QIUIAAAAJ) 合作，在新加坡顶尖的软件安全团队工作了四年。目前我担任 Automated Software Engineering 期刊副编辑、ACM TOSEM 评审委员会成员，以及 ICSE 2027 程序委员会成员。
 
-> **我持续欢迎优秀的合作者与有志于科研的学生。联系方式：[weima93@gmail.com](mailto:weima93@gmail.com)。**
+> 我持续欢迎优秀的合作者与有志于科研的学生。联系方式：[weima93@gmail.com](mailto:weima93@gmail.com)。
 
 ### 最新动态
 
