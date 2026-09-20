@@ -10,13 +10,13 @@ lang: zh
 
 # [**马威** (Wei Ma)，博士](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
-我是**瑞典布莱金厄理工学院（BTH）软件工程系的终身教轨助理教授（Associate Senior Lecturer, Tenure Track）**，同时是 **ELLIIT 研究员**——ELLIIT 是瑞典在信息技术与移动通信领域的国家级战略研究平台。我的研究处在 **AI for Software Engineering** 与**网络安全**的交叉点上，追问同一个问题：*当我们把软件交给 AI，什么会出错，又如何证明它不会出错？*
+我是瑞典布莱金厄理工学院（BTH）软件工程系的终身教轨助理教授（Associate Senior Lecturer, Tenure Track），也是 **ELLIIT** 研究员。ELLIIT 是瑞典在信息技术与移动通信领域的国家级战略研究平台。我的研究方向涉及 AI for Software Engineering 和网络安全，关注大模型参与软件开发和运行后的可信问题。
 
-这个问题带来了一系列获奖成果。我的论文 **Test Selection for Deep Learning Systems** 获得 **ACM TOSEM 五年杰出论文奖（2026）**——从软件工程旗舰期刊五年间的全部论文中遴选而出。我所在团队的工作还获得 **ICSE 2025 工业赛道最佳论文奖**、**ML4CS 2025 最佳论文奖**，以及 **ICSME 2020 IEEE 计算机学会 TCSE 杰出论文奖**。研究成果被引用 **1,700 余次**（h-index 19），发表于定义了软件工程、安全与人工智能领域的会议和期刊：**ICSE、FSE、ISSTA、ASE、TOSEM、TSE、TIFS、EMSE** 与 **IJCAI**，其中包括 **ICSE 2026 的两篇论文**。
+这个方向的成果获得了多个奖项。我的一作论文《Test Selection for Deep Learning Systems》获得了 **ACM TOSEM 五年杰出论文奖（2026）**——该奖项从软件工程旗舰期刊五年间的全部论文中遴选而出。我参与的工作还获得了 ICSE 2025 工业赛道最佳论文奖、ML4CS 2025 最佳论文奖，以及 ICSME 2020 IEEE 计算机学会 TCSE 杰出论文奖。研究成果被引用 **1,700 余次**（h-index 19），发表在软件工程、安全与人工智能领域的会议和期刊上：ICSE、FSE、ISSTA、ASE、TOSEM、TSE、TIFS、EMSE 和 IJCAI，其中包括 ICSE 2026 的两篇论文。
 
-我做的是能跑起来的系统，而不只是实验报告。**CKGFuzzer** 把代码知识图谱转化为可用于生产环境的 fuzz driver，并获得工业赛道最佳论文奖；**MazeBreaker** 用多智能体强化学习攻破了大模型的安全防御；**AgentGuard** 在真实生态中捕猎软件包混淆型供应链攻击；我基于大模型的智能合约审计系统则在已部署的 DeFi 协议中发现了真实漏洞。这些工作贯穿**程序分析与 AI 驱动的软件安全**、**智能合约审计与 DeFi 治理**、**大规模模糊测试与漏洞检测**，以及**面向可信 AI 的变异测试**。
+我重视可落地的系统。CKGFuzzer 把代码知识图谱转化为生产环境可用的 fuzz driver，获得了工业赛道最佳论文奖；MazeBreaker 用多智能体强化学习攻破大模型的安全防御；AgentGuard 在真实软件生态中捕猎包混淆型供应链攻击；我基于大模型的智能合约审计系统在已部署的 DeFi 协议中发现了真实漏洞。这些工作覆盖程序分析与 AI 驱动的软件安全、智能合约审计与 DeFi 治理、大规模模糊测试与漏洞检测，以及面向可信 AI 的变异测试。
 
-我在**卢森堡大学**获得博士学位，师从 [Yves Le Traon 教授](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766)与 [Mike Papadakis 教授](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766)，在软件测试方向打下基础。随后我在新加坡顶尖的软件安全团队工作了四年——在**新加坡管理大学（SMU）**任研究科学家，与 [Lingxiao Jiang 教授](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766)合作；在**南洋理工大学（NTU）**任研究员，与 [Yang Liu 教授](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766)和 [Yi Li 教授](https://scholar.google.ca/citations?user=B61QIUIAAAAJ)合作。目前我担任 *Automated Software Engineering* 期刊**副编辑**、**ACM TOSEM 评审委员会**成员，以及 **ICSE 2027 程序委员会**委员。
+我在卢森堡大学获得博士学位，师从 [Yves Le Traon 教授](https://scholar.google.com.sg/citations?user=DmGlmNEAAAAJ&hl=en&inst=14102473421921925766) 和 [Mike Papadakis 教授](https://scholar.google.com/citations?user=4O3EolUAAAAJ&hl=el&inst=14102473421921925766)，在软件测试方向打下基础。随后我在新加坡管理大学（SMU）任研究科学家，与 [Lingxiao Jiang 教授](https://scholar.google.com.sg/citations?user=0hssXLPZL2YC&hl=en&inst=14102473421921925766) 合作；在南洋理工大学（NTU）任研究员，与 [Yang Liu 教授](https://scholar.google.com.sg/citations?user=_Pvgwd0AAAAJ&hl=en&inst=14102473421921925766) 和 [Yi Li 教授](https://scholar.google.ca/citations?user=B61QIUIAAAAJ) 合作，在新加坡顶尖的软件安全团队工作了四年。目前我担任 Automated Software Engineering 期刊副编辑、ACM TOSEM 评审委员会成员，以及 ICSE 2027 程序委员会成员。
 
 > **我持续欢迎优秀的合作者与有志于科研的学生。联系方式：[weima93@gmail.com](mailto:weima93@gmail.com)。**
 
