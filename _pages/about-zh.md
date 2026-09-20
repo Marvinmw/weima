@@ -29,7 +29,7 @@ lang: zh
 - 论文 **Test Selection for Deep Learning Systems** 获 **ACM TOSEM 2026 五年杰出论文奖**。
 - 团队工作 **AgentGuard** 获第七届机器学习与网络安全国际会议（**ML4CS 2025**）**最佳论文奖**。
 - 一篇论文被 **SANER 2026** 录用。
-- 一项最佳论文提名。
+- 论文 **Runtime Verification of Tactical Data Link** 获 **ISSRE 2025** 工业赛道**最佳论文提名**。
 - 受 Abhik Roychoudhury 教授邀请，加入 **ACM TOSEM 评审委员会**。
 - 受邀加入 *Blockchain* 期刊**青年编委会**。
 - 论文 **Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios** 被 **ICSE 2026**（第二轮）录用。

@@ -29,7 +29,7 @@ I earned my Ph.D. at the **University of Luxembourg** under [Prof. Yves Le Traon
 - My work, **Test Selection for Deep Learning Systems**, won the ACM TOSEM 2026 Outstanding Paper Award in 5 years.
 - Our work, AgentGuard, received the Best Paper Award at the 7th International Conference on Machine Learning for Cyber Security (ML4CS 2025).
 - One paper is accepted by SANER 2026.
-- One best paper nomination.
+- Our paper, **Runtime Verification of Tactical Data Link**, received a Best Paper nomination at the ISSRE 2025 Industry Track.
 - I have joined in TOSEM review committee, thanks for the invitation from Prof. Abhik Roychoudhury!
 - I am invited to join the Youth Editorial Board of the journal Blockchain.
 - Our paper, **Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios**, has been accepted by ICSE 2026 (cycle 2).

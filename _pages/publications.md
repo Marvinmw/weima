@@ -17,7 +17,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0A
 5. **Wei Ma**; Thomas Laurent; Miloš Ojdanić; Thierry Titcheu Chekam; Anthony Ventresque; Mike Papadakis. Commit-Aware Mutation Testing. ICSME 2020, pp. 394–405 (**IEEE Computer Society TCSE Distinguished Paper Award**).
 6. Miloš Ojdanić\*; **Wei Ma**\*; Thomas Laurent; Thierry Titcheu Chekam; Anthony Ventresque; Mike Papadakis. On the Use of Commit-Relevant Mutants. EMSE 27, 5 (2022).
 7. Cen Zhang; Yaowen Zheng; Mingqiang Bai; Yeting Li; **Wei Ma**; Xiaofei Xie; Yuekang Li; Limin Sun; Yang Liu. How Effective Are They? Exploring Large Language Model Based Fuzz Driver Generation. ISSTA 2024, pp. 1223–1235.
-8. Qiang Wang; Zhiyuan Hu; **Wei Ma**; Qiang Chen; Yueling Zhang; Geguang Pu. Runtime Verification of Tactical Data Link. ISSRE 2025, Industry Track.
+8. Qiang Wang; Zhiyuan Hu; **Wei Ma**; Qiang Chen; Yueling Zhang; Geguang Pu. Runtime Verification of Tactical Data Link. ISSRE 2025, Industry Track (**Best Paper Nomination**).
 
 ## AI Security & Trustworthy Systems
 
