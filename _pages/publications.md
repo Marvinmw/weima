@@ -45,13 +45,14 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=ZubTNs0A
 
 1. Zhi Chen; **Wei Ma**; Lingxiao Jiang. Beyond Final Code: A Process-Oriented Error Analysis of Software Development Agents in Real-World GitHub Scenarios. ICSE 2026.
 2. **Wei Ma**; Zhi Chen; Jingxu Gu; Tianling Li; Shangqing Liu; Lingxiao Jiang. Same Signal, Different Semantics: A Cross-Framework Behavioral Analysis of Software Engineering Agents. arXiv:2605.18332, 2026.
-3. **Wei Ma**; Shangqing Liu; Mengjie Zhao; Xiaofei Xie; Wenhan Wang; Qiang Hu; Jie Zhang; Yang Liu. Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities. TOSEM 33(7): 1–29, 2024.
-4. **Wei Ma**\*; Mengjie Zhao\*; Ezekiel Soremekun; Qiang Hu; Jie M. Zhang; Mike Papadakis; Maxime Cordy; Xiaofei Xie; Yves Le Traon. GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses. MSR 2022, pp. 524–536.
-5. Zhihao Lin\*; **Wei Ma**\*; Tao Lin; Yaowen Zheng; Jingquan Ge; Jun Wang; Jacques Klein; Tegawendé Bissyandé; Yang Liu; Li Li. Open-Source AI-Based SE Tools: Opportunities and Challenges of Collaborative Software Learning. TOSEM, 2025.
-6. Shangqing Liu; Daya Guo; Jian Zhang; **Wei Ma**; Yanzhou Li; Yang Liu. An Empirical Study of Exploring the Capabilities of Large Language Models in Code Learning. TSE, 2025.
-7. Shangqing Liu; Yanzhou Li; Xiaofei Xie; **Wei Ma**; Guozhu Meng; Yang Liu. Automated Commit Intelligence by Pre-training. TOSEM 33(8), Article 201, 2024.
-8. Zhihao Lin; Mingyi Zhou; **Wei Ma**; Chi Chen; Yun Yang; Jun Wang; Chunming Hu; Li Li. HapRepair: Learn to Repair OpenHarmony Apps. FSE Companion 2025, Industry Track, pp. 319–330.
-9. Junjie Shi; **Wei Ma**; Chi Chen; Lingxiao Jiang. Debugging for LLM-Based Software. FSE 2025, FSE 2030 Workshop.
-10. Tianlin Li; Qiang Hu; Chong Wang; Jian Zhang; **Wei Ma**; Aishan Liu; Jingyi Wang; Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models. ICECCS 2025, pp. 489–494.
-11. Yao Zhang; Yude Bai; Minhong Dong; Keqing Cen; Ji Zhang; Qiang Hu; **Wei Ma**; Yongqiang Lyu; Ruitao Feng; Xiaohong Li; Junjie Wang; Lingxiao Jiang; Yang Liu. LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion. IEEE Transactions on Services Computing, 2026.
-12. Wenhan Wang; Yanzhou Li; Anran Li; Jian Zhang; **Wei Ma**; Yang Liu. An Empirical Study on Noisy Label Learning for Program Understanding. ICSE 2024, Article 95, pp. 1–12.
+3. Xiaoning Ren; Qiang Hu; **Wei Ma**; Chongyang Liu; Yan Li; Yao Zhang; Lingxiao Jiang; Yongqiang Lyu; Yinxing Xue. ProCURE: Addressing the Programming Concept Understanding Gap for Code Generation in LLMs via Concept-Aware Consistency Learning. IJCAI 2026.
+4. **Wei Ma**; Shangqing Liu; Mengjie Zhao; Xiaofei Xie; Wenhan Wang; Qiang Hu; Jie Zhang; Yang Liu. Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities. TOSEM 33(7): 1–29, 2024.
+5. **Wei Ma**\*; Mengjie Zhao\*; Ezekiel Soremekun; Qiang Hu; Jie M. Zhang; Mike Papadakis; Maxime Cordy; Xiaofei Xie; Yves Le Traon. GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses. MSR 2022, pp. 524–536.
+6. Zhihao Lin\*; **Wei Ma**\*; Tao Lin; Yaowen Zheng; Jingquan Ge; Jun Wang; Jacques Klein; Tegawendé Bissyandé; Yang Liu; Li Li. Open-Source AI-Based SE Tools: Opportunities and Challenges of Collaborative Software Learning. TOSEM, 2025.
+7. Shangqing Liu; Daya Guo; Jian Zhang; **Wei Ma**; Yanzhou Li; Yang Liu. An Empirical Study of Exploring the Capabilities of Large Language Models in Code Learning. TSE, 2025.
+8. Shangqing Liu; Yanzhou Li; Xiaofei Xie; **Wei Ma**; Guozhu Meng; Yang Liu. Automated Commit Intelligence by Pre-training. TOSEM 33(8), Article 201, 2024.
+9. Zhihao Lin; Mingyi Zhou; **Wei Ma**; Chi Chen; Yun Yang; Jun Wang; Chunming Hu; Li Li. HapRepair: Learn to Repair OpenHarmony Apps. FSE Companion 2025, Industry Track, pp. 319–330.
+10. Junjie Shi; **Wei Ma**; Chi Chen; Lingxiao Jiang. Debugging for LLM-Based Software. FSE 2025, FSE 2030 Workshop.
+11. Tianlin Li; Qiang Hu; Chong Wang; Jian Zhang; **Wei Ma**; Aishan Liu; Jingyi Wang; Yang Liu. An Analytical Perspective on Software Engineering for Large Language Models. ICECCS 2025, pp. 489–494.
+12. Yao Zhang; Yude Bai; Minhong Dong; Keqing Cen; Ji Zhang; Qiang Hu; **Wei Ma**; Yongqiang Lyu; Ruitao Feng; Xiaohong Li; Junjie Wang; Lingxiao Jiang; Yang Liu. LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion. IEEE Transactions on Services Computing, 2026.
+13. Wenhan Wang; Yanzhou Li; Anran Li; Jian Zhang; **Wei Ma**; Yang Liu. An Empirical Study on Noisy Label Learning for Program Understanding. ICSE 2024, Article 95, pp. 1–12.

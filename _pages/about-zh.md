@@ -8,11 +8,11 @@ lang: zh
 
 <p align="right"><a href="/">English</a></p>
 
-# [**马巍** (Wei Ma)，博士](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
+# [**马威** (Wei Ma)，博士](https://scholar.google.com/citations?user=ZubTNs0AAAAJ&hl=en)
 
 我是**瑞典布莱金厄理工学院（BTH）软件工程系的终身教轨助理教授（Associate Senior Lecturer, Tenure Track）**，同时是 **ELLIIT 研究员**——ELLIIT 是瑞典在信息技术与移动通信领域的国家级战略研究平台。我的研究处在 **AI for Software Engineering** 与**网络安全**的交叉点上，追问同一个问题：*当我们把软件交给 AI，什么会出错，又如何证明它不会出错？*
 
-这个问题带来了一系列获奖成果。我的论文 **Test Selection for Deep Learning Systems** 获得 **ACM TOSEM 五年杰出论文奖（2026）**——从软件工程旗舰期刊五年间的全部论文中遴选而出。我所在团队的工作还获得 **ICSE 2025 工业赛道最佳论文奖**、**ML4CS 2025 最佳论文奖**，以及 **ICSME 2020 IEEE 计算机学会 TCSE 杰出论文奖**。研究成果被引用 **1,700 余次**（h-index 19），发表于定义了软件工程与安全领域的会议和期刊：**ICSE、FSE、ISSTA、ASE、TOSEM、TSE、TIFS、EMSE**，其中包括 **ICSE 2026 的两篇论文**。
+这个问题带来了一系列获奖成果。我的论文 **Test Selection for Deep Learning Systems** 获得 **ACM TOSEM 五年杰出论文奖（2026）**——从软件工程旗舰期刊五年间的全部论文中遴选而出。我所在团队的工作还获得 **ICSE 2025 工业赛道最佳论文奖**、**ML4CS 2025 最佳论文奖**，以及 **ICSME 2020 IEEE 计算机学会 TCSE 杰出论文奖**。研究成果被引用 **1,700 余次**（h-index 19），发表于定义了软件工程、安全与人工智能领域的会议和期刊：**ICSE、FSE、ISSTA、ASE、TOSEM、TSE、TIFS、EMSE** 与 **IJCAI**，其中包括 **ICSE 2026 的两篇论文**。
 
 我做的是能跑起来的系统，而不只是实验报告。**CKGFuzzer** 把代码知识图谱转化为可用于生产环境的 fuzz driver，并获得工业赛道最佳论文奖；**MazeBreaker** 用多智能体强化学习攻破了大模型的安全防御；**AgentGuard** 在真实生态中捕猎软件包混淆型供应链攻击；我基于大模型的智能合约审计系统则在已部署的 DeFi 协议中发现了真实漏洞。这些工作贯穿**程序分析与 AI 驱动的软件安全**、**智能合约审计与 DeFi 治理**、**大规模模糊测试与漏洞检测**，以及**面向可信 AI 的变异测试**。
 
@@ -22,6 +22,7 @@ lang: zh
 
 ### 最新动态
 
+- 论文 **ProCURE: Addressing the Programming Concept Understanding Gap for Code Generation in LLMs via Concept-Aware Consistency Learning** 被 **IJCAI 2026** 录用。
 - 论文 LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion 被 TSC 录用。
 - 论文 Towards Secure Program Partitioning for Smart Contracts with LLM's In-Context Learning 被 TSE 录用。
 - 受邀担任 **ICSE 2027 程序委员会**委员。

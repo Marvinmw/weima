@@ -13,7 +13,7 @@ redirect_from:
 
 I am an **Associate Senior Lecturer (Tenure Track) in Software Engineering at Blekinge Institute of Technology (BTH), Sweden**, and an **ELLIIT faculty member** — ELLIIT is Sweden's national strategic research environment in IT and mobile communications. My work sits at the intersection of **AI for Software Engineering** and **cybersecurity**, and asks a single question: *when we hand software to AI, what breaks, and how do we prove it won't?*
 
-That question has produced award-winning answers. My paper **Test Selection for Deep Learning Systems** won the **ACM TOSEM Outstanding Paper Award in 5 Years (2026)** — a single paper selected from half a decade of the field's flagship journal. My team's work has also taken **Best Paper at ICSE 2025 Industry Track**, **Best Paper at ML4CS 2025**, and an **IEEE Computer Society TCSE Distinguished Paper Award at ICSME 2020**. My research has been cited **1,700+ times** (h-index 19), and appears in the venues that define software engineering and security: **ICSE, FSE, ISSTA, ASE, TOSEM, TSE, TIFS,** and **EMSE** — including **two papers at ICSE 2026**.
+That question has produced award-winning answers. My paper **Test Selection for Deep Learning Systems** won the **ACM TOSEM Outstanding Paper Award in 5 Years (2026)** — a single paper selected from half a decade of the field's flagship journal. My team's work has also taken **Best Paper at ICSE 2025 Industry Track**, **Best Paper at ML4CS 2025**, and an **IEEE Computer Society TCSE Distinguished Paper Award at ICSME 2020**. My research has been cited **1,700+ times** (h-index 19), and appears in the venues that define software engineering, security and AI: **ICSE, FSE, ISSTA, ASE, TOSEM, TSE, TIFS, EMSE** and **IJCAI** — including **two papers at ICSE 2026**.
 
 I build systems, not just studies. **CKGFuzzer** turned code knowledge graphs into production fuzz drivers and won an industry best-paper award; **MazeBreaker** broke LLM safety defenses with multi-agent reinforcement learning; **AgentGuard** hunts package-confusion supply-chain attacks in the wild; and my LLM-based smart-contract auditor found real vulnerabilities in deployed DeFi protocols. This work runs from **program analysis and AI-driven software security** through **smart-contract auditing and DeFi governance**, **large-scale fuzzing and vulnerability detection**, to **mutation testing for trustworthy AI**.
 
@@ -22,6 +22,7 @@ I earned my Ph.D. at the **University of Luxembourg** under [Prof. Yves Le Traon
 > **I am always open to strong collaborators and motivated students. Reach me at [weima93@gmail.com](mailto:weima93@gmail.com).**
 
 ### News
+- Our paper, **ProCURE: Addressing the Programming Concept Understanding Gap for Code Generation in LLMs via Concept-Aware Consistency Learning**, has been accepted by IJCAI 2026.
 - Our paper, LIMR: Intent-Aware Mashup API Recommendation via LLM-Augmented Multi-Scale Fusion, was accepted by TSC.
 - One paper, Towards secure program partitioning for smart contracts with LLMs in-context learning, accepted by TSE.
 - I am invited as an ICSE 2027 PC member.
