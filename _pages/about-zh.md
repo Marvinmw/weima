@@ -72,7 +72,6 @@ lang: zh
 
 - **副编辑**，Automated Software Engineering (Springer)
 - **评审委员会**，ACM TOSEM
-- **青年编委**，Blockchain
 - **程序委员会**：ICSE 2027、MSR 2027、APSEC 2026、ISSTA 2024
 - **审稿人**：TOSEM、TSE、EMSE、JSS、JSA、KNOSYS、ASE NIER
 

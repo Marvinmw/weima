@@ -70,7 +70,6 @@ I earned my Ph.D. at the University of Luxembourg under [Prof. Yves Le Traon](ht
 
 - **Associate Editor**, Automated Software Engineering (Springer)
 - **Review Committee**, ACM TOSEM
-- **Youth Editorial Board**, Blockchain
 - **Program Committee**: ICSE 2027, MSR 2027, APSEC 2026, ISSTA 2024
 - **Reviewer**: TOSEM, TSE, EMSE, JSS, JSA, KNOSYS, ASE NIER
 
